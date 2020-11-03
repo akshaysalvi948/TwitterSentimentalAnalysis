@@ -13,7 +13,7 @@ I had trained the model based upon  three algorithms  and the Accuracy are as fo
 
 ### step3 : Results
 
-Results are stored in  `results.csv` file which contains sentiment prediction based upon the XGBOOST algorithm, the sentiment are,
+Results are stored in  `results.csv` file which contains sentiment prediction based upon the XGBOOST algorithm, the sentiments are,
 
 1. positive 
 2. slightly positive
