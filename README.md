@@ -1,5 +1,5 @@
-# TweeterSentimentalAnalysis
-## Sentimental analysis based upon tweeter tweets for maggi company.
+# TwitterSentimentalAnalysis
+## Sentimental analysis based upon twitter tweets for maggi company.
 
 ### step1 : Add keys and tokens from the Twitter Dev Console to the `config.py` file
 
